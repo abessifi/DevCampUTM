@@ -9,19 +9,19 @@ mysql_password = admin (requested durant mysql server installation)
 # Installation des sources :
 1- Créez un répertoire sous /var/www/ et nommez le DevCampUTM
 2- Maintenant clonez le projet :
-  $ cd /var/www/DevCampUTM
-  si vous avez un compte github faite :
-  $ git clone https://github.com/vaytess/DevCampUTM.git
-  si vous avez un accès SSH faite :
-  $ git clone git@github.com:vaytess/DevCampUTM.git
+- cd /var/www/DevCampUTM
+si vous avez un compte github faite :
+- git clone https://github.com/vaytess/DevCampUTM.git
+- si vous avez un accès SSH faite :
+- git clone git@github.com:vaytess/DevCampUTM.git
 3- Initialisez la base de données :
-  $ mysql -u root -p
-  mysql> create database wp2;
-  mysql> quit
-  $ mysql -u root -p wp2 < wp_db.sql
-  $ chown www-data:www-data -R DevCampUTM
-  $ chmod -R 755 DevCampUTM
-  $ chmod 600 DevCampUTM/wp-config.php
+- mysql -u root -p
+- mysql> create database wp2;
+- mysql> quit
+- mysql -u root -p wp2 < wp_db.sql
+- chown www-data:www-data -R DevCampUTM
+- chmod -R 755 DevCampUTM
+- chmod 600 DevCampUTM/wp-config.php
 
 Maintenant vous pouvez accéder à la page d'acceuil du projet via http://localhost/DevCampUTM
 Pour accèdez à la page d'administation passez par : http://localhost/DevCampUTM/wp-admin
