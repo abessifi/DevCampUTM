@@ -1,0 +1,598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Trusted 1.0\n"
+"POT-Creation-Date: 2012-12-10 09:49-0800\n"
+"PO-Revision-Date: 2012-12-10 09:50-0800\n"
+"Last-Translator: \n"
+"Language-Team: Themeple <Ludjon.roshi@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:12
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:13
+msgid "Page not found."
+msgstr ""
+
+#: functions-trusted.php:36
+msgid "Previews"
+msgstr ""
+
+#: functions-trusted.php:37
+msgid "Next"
+msgstr ""
+
+#: search.php:27
+msgid "Your search did not match any entries"
+msgstr ""
+
+#: search.php:29
+msgid "Suggestions"
+msgstr ""
+
+#: search.php:31
+msgid "Make sure all words are spelled correctly"
+msgstr ""
+
+#: search.php:32
+msgid "Try different keywords"
+msgstr ""
+
+#: search.php:33
+msgid "Try more general keywords"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search here"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:13 template_inc/admin/register-sidebars.php:6
+msgid "Sidebar Blog"
+msgstr ""
+
+#: sidebar.php:14 template_inc/admin/register-sidebars.php:21
+msgid "Sidebar Portfolio"
+msgstr ""
+
+#: sidebar.php:15 template_inc/admin/register-sidebars.php:14
+msgid "Sidebar Pages"
+msgstr ""
+
+#: sidebar.php:18 template_inc/admin/register-sidebars.php:50
+msgid "Page"
+msgstr ""
+
+#: sidebar.php:20 template_inc/admin/register-sidebars.php:73
+msgid "Category"
+msgstr ""
+
+#: template-portfolio.php:44
+msgid "All"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:8
+msgid "Top Header Content"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:69
+msgid "Head Text"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:107
+msgid "Columns"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:246
+msgid "Recent Portfolio"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:310
+msgid "Headlines"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:370
+msgid "Services"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:438
+msgid "Our Team"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:511
+msgid "Testimonials"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:568
+msgid "Clients"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:615
+msgid "Post/Page Content"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:693
+msgid "Divider"
+msgstr ""
+
+#: template_inc/admin/admin_dynamic_options.php:752
+msgid "Widget"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:16
+msgid "Add New Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:17
+msgid "Edit Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:18
+msgid "New Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:19
+msgid "View Header Entry"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:20
+msgid "Search Header Entries"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:21
+msgid "No Header Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_headers_type.php:22
+msgid "No Header Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:18
+msgid "Layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:20
+#: template_inc/admin/admin_metabox.php:21
+msgid "Slideshow Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:23
+msgid "Media - Add any number images and videos for the slider"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:25
+msgid "Position"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:26
+msgid "Social Links"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:27
+msgid "Services Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:28
+msgid "Header Options"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:41
+msgid "Select Page layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:63
+#: template_inc/admin/admin_metabox.php:99
+msgid "Which Slider do you want to use?"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:73
+msgid "Slideshow Layout"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:87
+msgid "Select one of the sliders you have created"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:174
+msgid "Facebook Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:179
+msgid "Twitter Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:184
+msgid "Google Plus Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:189
+msgid "Skype Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:202
+msgid "The position of the employer"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:208
+msgid "The position of the image you have selected as feature image"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:216
+msgid ""
+"If you want a video please insert the link here and dont insert feature image"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:222
+msgid "The position of the image/video"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:230
+msgid "Button Title"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:235
+msgid "Button Link"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:240
+msgid "Button Alignment"
+msgstr ""
+
+#: template_inc/admin/admin_metabox.php:296
+msgid "Portfolio Meta Information"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:16
+msgid "Add New Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:17
+msgid "Edit Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:18
+msgid "New Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:19
+msgid "View Portfolio Entry"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:20
+msgid "Search Portfolio Entries"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:21
+msgid "No Portfolio Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_portfolio_type.php:22
+msgid "No Portfolio Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:16
+msgid "Add New Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:17
+msgid "Edit Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:18
+msgid "New Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:19
+msgid "View Service Entry"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:20
+msgid "Search Service Entries"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:21
+msgid "No Service Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_services_type.php:22
+msgid "No Service Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:16
+msgid "Add New Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:17
+msgid "Edit Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:18
+msgid "New Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:19
+msgid "View Staff Entry"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:20
+msgid "Search Staff Entries"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:21
+msgid "No Staff Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_staff_type.php:22
+msgid "No Staff Entries found in Trash"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:16
+msgid "Add New Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:17
+msgid "Edit Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:18
+msgid "New Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:19
+msgid "View Testimonial Entry"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:20
+msgid "Search Testimonial Entries"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:21
+msgid "No Testimonial Entries found"
+msgstr ""
+
+#: template_inc/admin/admin_testimonial_type.php:22
+msgid "No Testimonial Entries found in Trash"
+msgstr ""
+
+#: themeple_framework/system/parsers.php:42
+#: themeple_framework/system/parsers.php:63
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: themeple_framework/system/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: themeple_framework/system/parsers.php:67
+#: themeple_framework/system/parsers.php:72
+#: themeple_framework/system/parsers.php:262
+#: themeple_framework/system/parsers.php:451
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: themeple_framework/system/view-gen.inc.php:155
+msgid "(remove)"
+msgstr ""
+
+#: themeple_framework/system/view-gen.inc.php:156
+msgid "Show"
+msgstr ""
+
+#: themeple_framework/system/view-gen.inc.php:156
+msgid "Hide"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:134
+#: themeple_framework/system/wordpress-importer.php:143
+#: themeple_framework/system/wordpress-importer.php:194
+#: themeple_framework/system/wordpress-importer.php:198
+#: themeple_framework/system/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:423
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:461
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:505
+#: themeple_framework/system/wordpress-importer.php:631
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:527
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:548
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:603
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:749
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:756
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:819
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:832
+msgid "Invalid file type"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:876
+msgid "Remote server did not respond"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:882
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:889
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:894
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:900
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:999
+msgid "Import WordPress"
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1006
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1021
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1022
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: themeple_framework/system/wordpress-importer.php:1096
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
