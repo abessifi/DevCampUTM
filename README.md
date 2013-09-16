@@ -27,7 +27,7 @@ si vous avez un compte github faites :
 - git init
 - git config user.name "your_name"
 - git config user.email "your_email"
-- 
+
 Maintenant vous pouvez accéder à la page d'acceuil du projet via http://localhost/DevCampUTM . Pour accèdez à la page d'administation passez par : http://localhost/DevCampUTM/wp-admin
 Login : root
 Password : admin
