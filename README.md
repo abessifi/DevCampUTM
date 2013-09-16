@@ -38,6 +38,7 @@ Si vous avez un compte github faites :
 - git add remote github https://github.com/vaytess/DevCampUTM.git
 Si vous avez un accès SSH :
 - git add remote github git@github.com:vaytess/DevCampUTM.git
+
 Ensuite après modification des sources, vous pouvez les pousser vers github comme suit :
 - git add .
 - git commit -m "your comment here"
